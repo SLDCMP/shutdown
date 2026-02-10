@@ -1,0 +1,1944 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>DELL</Author>
+  <LastAuthor>DELL</LastAuthor>
+  <Created>2026-02-10T14:52:04Z</Created>
+  <LastSaved>2026-02-10T11:44:15Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>11805</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007990816">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="18" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007997808">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007997828">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007997848">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007997868">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007997888">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007990320">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007990340">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007990360">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007990380">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007990400">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007990420">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007998432">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007998452">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007998472">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007998492">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007998512">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007998532">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007998016">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007998036">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007998056">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007998076">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007998096">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007998116">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007990112">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007990132">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007990152">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007990172">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007990192">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007990212">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007998640">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007998680">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007998700">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007998720">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2441007998740">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="[$-809]dd\-mm\-yyyy"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s76">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s82">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s83">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat ss:Format="[$-809]dd\-mm\-yyyy"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s89">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s90">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s143">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s144">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat ss:Format="[$-809]dd\-mm\-yyyy"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s146">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s147">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s152">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="serif" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s153">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s154">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s155">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s156">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s157">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s159">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Names>
+  <NamedRange ss:Name="__bookmark_1" ss:RefersTo="=Report!R1C1:R34C14"/>
+ </Names>
+ <Worksheet ss:Name="Report">
+  <Table ss:ExpandedColumnCount="14" ss:ExpandedRowCount="42" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="54" ss:Span="3"/>
+   <Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="241.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="111.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="54"/>
+   <Column ss:AutoFitWidth="0" ss:Width="27"/>
+   <Column ss:AutoFitWidth="0" ss:Width="125.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="54" ss:Span="3"/>
+   <Column ss:Index="14" ss:AutoFitWidth="0" ss:Width="181.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="42">
+    <Cell ss:StyleID="s62"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="12" ss:StyleID="m2441007998640"><Data ss:Type="String">STATE LOAD DESPATCH CENTRE &#10;Madhya Pradesh Power Transmission Company Limited, Jabalpur</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="42">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">From Date:</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="DateTime">2026-02-11T00:00:00.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s62"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s62"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="8" ss:StyleID="m2441007990816"><Data ss:Type="String">APPROVED OUTAGE LIST FOR DATED 11.02.2026</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s62"><NamedCell ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="42">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Control Area :</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ALL</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Circle :  </Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ALL</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s62"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s62"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s62"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007998680"><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s62"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s62"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s62"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s62"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s62"><NamedCell ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="42">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">S.NO.</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">APPLICATION DATE</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">REQ_ID</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">REQ TYPE</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">ELEMENT</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">SUBSTATION</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">CATEGORY TYPE</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007998700"><Data ss:Type="String">REASON FOR SHUT DOWN</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">PROPOSED START DATE &amp; TIME</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">PROPOSED STOP DATE &amp; TIME</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007998720"><Data ss:Type="String">Availing Officer Name &amp; Mob. No.</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">REMARK</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82"><Data ss:Type="Number">1</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-01-23T16:52:26.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2601/0380</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Daily</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">220KV_220 kV Anuppur-Kotmikala Circuit I</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">220KV_ANUPPUR</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">NON-OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007998740"><Data ss:Type="String">For Conductor re-sagging &amp; other line maintenance</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">01-02-2026 08:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">20-02-2026 18:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Jitendra Tiwari</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">9425805298</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Deferred</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">2</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-01-23T16:53:20.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2601/0381</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Daily</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">220KV_220 kV Anuppur-Kotmikala Circuit II</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">220KV_ANUPPUR</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">NON-OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007990112"><Data ss:Type="String">For Conductor re-sagging &amp; other line maintenance</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">01-02-2026 08:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">20-02-2026 18:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Jitendra Tiwari</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">9425805298</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Deferred</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">3</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-02-10T15:58:01.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2602/0148</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">220KV_220 KV ASHTA-JETPURA CKT.NO.1ST</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">400KV_ASHTA4</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">NON-OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007990132"><Data ss:Type="String">INSTALLATION OF DPR MAIN NO.2ND</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 10:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 17:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">JITENDRA LOHANA</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">9425804978</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ok, through sub ld, line to be in service</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">4</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-01-31T12:59:08.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2601/0525</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">220KV_220kv Bus Tie</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">400KV_BADNAWAR</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">NON-OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007990152"><Data ss:Type="String">for bay maintenance and testing work</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 08:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 18:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ER.Abhishek verma</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">9340855901</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ok, through sub ld</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">5</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-02-10T14:05:50.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2602/0138</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">132KV_40 MVA X-MER MAKE BBL</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">132KV_BARMAN</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">NON-OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007990172"><Data ss:Type="String">Y&amp;B Phase 132 KV Side C.T. Replacement work .</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 10:30:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 17:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Er K.K. Choure</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">9425801357</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ok</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">6</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-01-29T13:13:10.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2601/0461</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Daily</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">220KV_220 KV Bina Datia line</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">400KV_BINA4</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">NON-OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007990192"><Data ss:Type="String">Old and defected disc replacement work</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">30-01-2026 08:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">13-02-2026 18:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Satish Kumar Bhagat</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">9425806916</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ok, through sub ld</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">7</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-02-10T12:48:02.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2602/0135</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">132KV_40 MVA ABB Transformer</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">220KV_CHATARPUR</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">NON-OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007990212"><Data ss:Type="String">For attending hot point at 132 KV CT Clamp</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 12:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 14:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Brajendra Soni</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">9131327770</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ok</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">8</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-02-09T13:55:46.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2602/0116</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Daily</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">132KV_132 kV Chhindwara-Borgaon feeder</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">220KV_CHHINDWARA</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">NON-OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007998016"><Data ss:Type="String">Conductor Resagging work</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">10-02-2026 09:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">13-02-2026 18:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">A.M.Shende</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">7587951136</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ok</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">9</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-02-10T13:36:13.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2602/0137</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">132KV_132KV Dindori - Gorakhpur ckt -II feeder</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">132KV_DINDORI</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">NON-OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007998036"><Data ss:Type="String">Bay maintenance work</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 12:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 15:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Vikram Singh</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">8319555199</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ok, o&amp;m to be informed</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">10</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-02-10T14:06:46.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2602/0139</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">132KV_132 kV Shahdol-Dindori Circuit II</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">132KV_DINDORI</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">NON-OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007998056"><Data ss:Type="String">For Jumper cone tightening &amp; other line maint.</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 10:30:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 17:30:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">JP Asati</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">9424445533</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ok</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">11</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-02-10T14:49:49.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2602/0145</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">132KV_132KV SOUTHZONE - ELECTRONIC COMPLEX LINE</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">132KV_E.COMPLEX INDORE</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">NON-OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007998076"><Data ss:Type="String">CONDUCTOR REPLACEMENT  WORK AND OTHER MAINTANANCE</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 07:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 17:30:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">RAVINDRA PATIL</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">9425801598</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">sub ld</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">12</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-01-28T13:51:44.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2601/0438</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Daily</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">132KV_132KV HATTA-BIJAWAR</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">132KV_HATTA</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">NON-OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007998096"><Data ss:Type="String">Replacement of ACSR Panther Conductor with HTLS</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">29-01-2026 09:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">25-04-2026 18:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">M.M. Baig</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">9425805067</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ok</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">13</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-02-09T16:34:34.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2602/0126</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">220KV_160MVA BBL XMER 220/132/33 KV</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">220KV_HOSHANGABAD</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">NON-OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007998116"><Data ss:Type="String">ATTANDING PROBLEM ON NIFPS &amp; TESTING WORK</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 11:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 18:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">V.P.DWIVEDI</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">9425804799</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">real time</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">14</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-02-10T11:25:57.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2602/0131</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">220KV_220 KV HOSHANGABAD-MANDIDEEP FEEDER</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">220KV_HOSHANGABAD</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">NON-OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007998432"><Data ss:Type="String">LOAD SHIFT MAIN CB TO BUS COUPLER CB</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 09:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 14:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">V.P.DWIVEDI</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">9425804799</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ok, through sub ld, line to be in service</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">15</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-02-10T14:47:56.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2602/0144</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">132KV_132 KV CHAMBAL-SATYASAI LINE</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">132KV_INDORE CHAMBAL</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">NON-OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007998452"><Data ss:Type="String">CONDUCTOR REPLACEMENT  WORK AND OTHER MAINTANANCE</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 07:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 17:30:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">RAVINDRA PATIL</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">9425801598</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">sub ld</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">16</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-02-10T14:14:24.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2602/0140</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">220KV_220KV JBP - GORABAZAR  FEADER</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">220KV_JABALPUR</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">NON-OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007998472"><Data ss:Type="String">CT REPLEACEMENT WORK</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 10:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 17:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">D.N.PODDAR</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">9425805034</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ok</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">17</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-02-09T16:26:09.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2602/0124</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">400KV_315 MVA X-mer-II (EMCO)</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">400KV_JULWANIYA4</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">NON-OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007998492"><Data ss:Type="String">Checking of oil leakage on OLTC</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 11:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 14:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Sh. A.R. Kanel</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">8319599488</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">real time</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">18</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-02-09T12:38:01.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2602/0111</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">132KV_132kV Kirnapur Dongargarh Line</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">400KV_KIRNAPUR</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007998512"><Data ss:Type="String">PG Clamp Removing and New Dead End Press Work</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 09:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 18:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">S.K. BHALADHARE</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">9425807264</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ok</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">19</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-02-10T13:25:03.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2602/0136</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">132KV_132 kV Maihar â¿¿ Kymore Ckt-I line</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">220KV_MAIHAR</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">NON-OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007998532"><Data ss:Type="String">Line maintenance work</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 11:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 17:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Mr. R.K.Prajapati</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">9407070182</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ok</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">20</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-02-10T15:26:07.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2602/0147</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">132KV_132kV Malanpur - Morar ckt - 1 Line</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">220KV_MALANPUR</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">NON-OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007990320"><Data ss:Type="String">Line Maintenance work</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 10:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 17:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Pankaj Kumar</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">9425805317</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">sub ld</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">21</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-02-09T16:30:16.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2602/0125</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">220KV_220 kV Khandwa (PGCIL)-Omkareshwar  Ckt 1st</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">220KV_OMKARESHWAR</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">OCCM-WR</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007990340"><Data ss:Type="String">Flash Over Disc Replacment&amp; Other Line Maint. work</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 08:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 18:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">M.K.More</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">9425805258</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ok, through sub ld</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">22</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2025-12-16T19:55:27.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2512/0334</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">400KV_400KV Pithampur-PGCIL(Indore) ckt-1</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">400KV_PITHAMPUR4</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007990360"><Data ss:Type="String">For Pre Monsoon Maintenance Work</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 10:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 18:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Rajudas Bairagi</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">9425801532</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Deferred, not in WR OCCM List</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">23</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-01-30T20:07:07.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2601/0512</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Continuous</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">400KV_400KV SSTPH-Pithampur ckt-2</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">400KV_PITHAMPUR4</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">NON-OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007990380"><Data ss:Type="String">Tower Restrengthening work on cross arm.</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">01-02-2026 08:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">14-02-2026 18:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Naresh Pandre</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">9425806905</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Continuous</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">24</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-02-10T14:22:28.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2602/0142</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">400KV_315 MVA ICT -IInd</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">400KV_PITHAMPUR4</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">NON-OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007990400"><Data ss:Type="String">for Non.Directional O/C &amp; E/F Relay Replacme. work</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 14:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 17:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Rajudas bairagi</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">9425801532</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">real time</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">25</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-01-30T15:17:05.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2601/0499</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Continuous</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">400KV_400KV SSTPH-Pithampur ckt -1</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">400KV_PITHAMPUR4</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">NON-OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007990420"><Data ss:Type="String">Tower Restrengthening work on cross arm.</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">01-02-2026 08:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">14-02-2026 18:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Naresh Pandre</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">9425806905</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Continuous</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">26</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-02-09T17:46:25.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2602/0128</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Continuous</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">220KV_220 kv Rewa-sidhi DCDS Line</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">220KV_REWA</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">NON-OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007997808"><Data ss:Type="String">Modification &amp; Shifting of line</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 09:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">21-02-2026 18:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Mr. Ajay Kumar Chaurasia</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">9425805081</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ok, EI approval to be submitted while charging the lines, s/d shall be completed at the earliest</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">27</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-02-09T17:43:52.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2602/0127</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Continuous</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">220KV_220 kv Rewa-Satna DCDS Line</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">220KV_REWA</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">NON-OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007997828"><Data ss:Type="String">Modification &amp; Shifting of line</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">11-02-2026 09:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">21-02-2026 18:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Mr. Ajay Kumar Chaurasia</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">9425805081</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ok, EI approval to be submitted while charging the lines, s/d shall be completed at the earliest</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">28</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-02-04T14:55:47.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2602/0056</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Continuous</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">132KV_132kV Vidisha-Raisen Ckt-II</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">220KV_VIDISHA</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">NON-OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007997848"><Data ss:Type="String">For Modification/shifting work of line.</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">05-02-2026 09:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">25-02-2026 18:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Rajkumar Bhusare</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">9425820042</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">sub ld</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">29</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="DateTime">2026-02-04T14:51:17.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">MR2602/0055</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Continuous</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">132KV_132kV Vidisha-Gairatganj ckt</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">220KV_VIDISHA</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">NON-OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007997868"><Data ss:Type="String">For modification/shifing work of line.</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">05-02-2026 09:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">25-02-2026 18:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Rajkumar Bhusare</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">9425820042</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">sub ld</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s143" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">30</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s144"><Data ss:Type="DateTime">2026-02-10T14:38:32.000</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s143"><Data ss:Type="String">MR2602/0143</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s143"><NamedCell ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s143"><Data ss:Type="String">132KV_132Kv Waidhan-Bargwan bay</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s143"><Data ss:Type="String">132KV_WAIDHAN</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s143"><Data ss:Type="String">OCCM-MP</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2441007997888"><Data ss:Type="String">for c. c. structure dismantling &amp; erection</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s143"><Data ss:Type="String">11-02-2026 10:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s143"><Data ss:Type="String">11-02-2026 18:00:00</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s146"><Data ss:Type="String">RB Singh</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s147"><Data ss:Type="String">9907230394</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+    <Cell ss:StyleID="s143"><Data ss:Type="String">ok</Data><NamedCell
+      ss:Name="__bookmark_1"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">31</Data></Cell>
+    <Cell ss:StyleID="s152"/>
+    <Cell ss:StyleID="s152"/>
+    <Cell ss:StyleID="s152"/>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">KHANDWA - 400KV - BUS 2</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">POWERGRID-WR2 (PGCIL)</Data></Cell>
+    <Cell ss:StyleID="s152"/>
+    <Cell ss:StyleID="s152"/>
+    <Cell ss:StyleID="s154"><Data ss:Type="String">All elements to be in service with Bus-1. in case of N-1, Betul-2 with Seoni-2, Betul-1 with Seoni-1, Itarsi-1 with ICT-2, Dhule-1 with ICT-1 indore-1 with ICT-3 will be in service. Rajgarh-2, Khargone-1, Itarsi-2,Dhule-2, Indore-2, cheggaon-1 will trip. Utmost care to be taken. SLDC MP to be informed.</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">11-Feb-2026</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">08:00</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">11-Feb-2026</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">18:00</Data></Cell>
+    <Cell ss:StyleID="s155"><Data ss:Type="String">ok</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s143" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">32</Data></Cell>
+    <Cell ss:StyleID="s152"/>
+    <Cell ss:StyleID="s152"/>
+    <Cell ss:StyleID="s152"/>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">220KV-GWALIOR-MAHALGAON-1</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">MADHYA PRADESH</Data></Cell>
+    <Cell ss:StyleID="s152"/>
+    <Cell ss:StyleID="s152"/>
+    <Cell ss:StyleID="s154"><Data ss:Type="String">Ckt-2 to be in service. WR2 to be informed. Load to be managed by SLDC MP</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">11-Feb-2026</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">09:00</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">11-Feb-2026</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">17:00</Data></Cell>
+    <Cell ss:StyleID="s155"><Data ss:Type="String">real time</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">33</Data></Cell>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">220KV-SATNA-MAIHAR-1</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">MADHYA PRADESH</Data></Cell>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s154"><Data ss:Type="String">220kV Maiher-Katni-1 to be in service. Load to be managed by SLDC MP.</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">11-Feb-2026</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">10:00</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">11-Feb-2026</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">17:00</Data></Cell>
+    <Cell ss:StyleID="s155"><Data ss:Type="String">real time</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s143" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">34</Data></Cell>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">220KV-KHANDWA-OMKARESHWAR-1</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">MADHYA PRADESH</Data></Cell>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s154"><Data ss:Type="String">All other lines at Omkareshkar to be in service with AR enabled. No other element shall be effected. Load will be managed by SLDC MP. WR2 to be informed.</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">11-Feb-2026</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">08:00</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">11-Feb-2026</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">18:00</Data></Cell>
+    <Cell ss:StyleID="s157"><Data ss:Type="String">ok, through sub ld</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s82" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">132KV-KIRNAPUR-DONGARGARH-1</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">MADHYA PRADESH,CHATTISGARH</Data></Cell>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s154"><Data ss:Type="String">ok, SLDC CG Consent is required.  no power interruption. </Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">11-Feb-2026</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">09:00</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">11-Feb-2026</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">18:00</Data></Cell>
+    <Cell ss:StyleID="s155"><Data ss:Type="String">ok</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s143" ss:Formula="=R[-1]C+1"><Data ss:Type="Number">36</Data></Cell>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">220KV-BHANPURA-RANPUR-1</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">POWERGRID-NR,NLDC,MADHYA PRADESH</Data></Cell>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s154"><Data ss:Type="String">Other lines at Bhanpura to be in service, Drawl from 220KV Bhanpura-Modak to be restricted upto 150MW by NR. NLDC consent required. Load to be managed by SLDC MP. </Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">11-Feb-2026</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">08:00</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">11-Feb-2026</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">18:00</Data></Cell>
+    <Cell ss:StyleID="s155"><Data ss:Type="String">real time</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s159"><Data ss:Type="String">S/I SLDC JABALPUR</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape"/>
+    <PageMargins x:Bottom="0.25" x:Left="0.25" x:Right="0.25" x:Top="0.25"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <Selected/>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>1</TopRowBottomPane>
+   <SplitVertical>5</SplitVertical>
+   <LeftColumnRightPane>5</LeftColumnRightPane>
+   <ActivePane>0</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>1</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+    </Pane>
+    <Pane>
+     <Number>0</Number>
+     <ActiveRow>36</ActiveRow>
+     <ActiveCol>6</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
